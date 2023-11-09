@@ -1,0 +1,42 @@
+{
+	"expo": {
+		"name": "RNCourse",
+		"slug": "rncourse",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./src/assets/logo.png",
+		"userInterfaceStyle": "dark",
+		"backgroundColor": "#1f1f1f",
+		"splash": {
+			"image": "./src/assets/new-splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#1f1f1f"
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./src/assets/addIcon.png"
+			}
+		},
+		"androidStatusBar": {
+			"barStyle": "light-content",
+			"backgroundColor": "#1f1f1f"
+		},
+		"androidNavigationBar": {
+			"barStyle": "light-content",
+			"backgroundColor": "#2d2e32"
+		},
+		"web": {
+			"favicon": "./src/assets/addIcon.png"
+		},
+		"extra": {
+			"eas": {
+				"projectId": "04fa392a-d4d3-4d7f-9171-eb46c33dda3f"
+			}
+		},
+		"owner": "matheusthmm"
+	}
+}
