@@ -52,7 +52,11 @@
 
 ## About The Project
 
-![Plus Notes Presentation GIF][product-presentation]
+<div align="center">
+    <img src="https://github.com/MatheusTHM/Google-Keep-Clone/blob/main/src/assets/presentation-video.gif" width="300" height="600" />
+</div>
+
+<br/>
 
 As my first exercise while learning react native I decided that I wanted to go a little beyond what the course asked, and decided to try and recreate all that I could from Google Keep. This is the result.
 
