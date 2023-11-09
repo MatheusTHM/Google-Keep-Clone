@@ -52,7 +52,7 @@
 
 ## About The Project
 
-[![Plus Notes Presentation GIF][src/assets/presentation-video.gif]]
+![Plus Notes Presentation GIF][product-presentation]
 
 As my first exercise while learning react native I decided that I wanted to go a little beyond what the course asked, and decided to try and recreate all that I could from Google Keep. This is the result.
 
@@ -158,3 +158,4 @@ Project Link: [https://github.com/MatheusTHM/Google-Keep-Clone](https://github.c
 [license-url]: https://github.com/MatheusTHM/Google-Keep-Clone/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/th-thommesani
+[product-presentation]: https://github.com/MatheusTHM/Google-Keep-Clone/blob/main/src/assets/presentation-video.gif
